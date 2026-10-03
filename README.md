@@ -29,7 +29,7 @@ Total runtime: 10.98s
 Close the graph windows to finish.
 ```
 ![Picture of ray angular distribution](images_for_RM/screen_disp_dist.png)
-![Picture of ray screen displacement distribution](images_for_RM/Ray_Angular_Dist.png)
+![Picture of ray screen displacement distribution](images_for_RM/ray_angular_dist.png)
 ![Picture of reflection diagram](images_for_RM/diagram.png)
 
 
