@@ -1,0 +1,25 @@
+{
+  "defining_beam_points": 1000000,
+  "testing_beam_points": 5000,
+  "bending_radius": 11.5,
+  "bending_angle": 0.008,
+  "mirror_distance": 15.0,
+  "focal_angle_degrees": 90.0,
+  "focal_distance": 15.0,
+  "polynomial_degree": 3,
+  "mirror_segments": 10000,
+  "rays_per_beam_point": 150,
+  "angular_distribution_points": [
+    [-10000, 1000],
+    [-7500, 4750],
+    [-5000, 19000],
+    [-2500, 29150],
+    [0, 24275]
+  ],
+  "angular_distribution_initial_guess": [9000.0, 3059.47, 2344.43],
+  "seed": 20260906,
+  "collection_fractions": [0.5],
+  "show_model": true,
+  "intensity_sharpness": 10,
+  "angular_spread_sharpness": 1
+}
